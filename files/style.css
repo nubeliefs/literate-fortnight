@@ -13,7 +13,7 @@ body {
     
     position: sticky;
     top: 4rem;
-    overflow: auto;
+    
   }
 
   @media screen and (max-width: 700px) {
