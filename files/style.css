@@ -12,7 +12,7 @@ body {
   .sidebar {
     
     position: sticky;
-    height: 100%;
+    top: 4rem;
     overflow: auto;
   }
 
