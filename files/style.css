@@ -12,7 +12,9 @@ body {
   .sidebar {
     
     position: sticky;
-    top: 4rem;
+    position: -webkit-sticky;
+    top: 70px;
+    display: flex;
     
   }
 
